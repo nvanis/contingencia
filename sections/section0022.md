@@ -1,4 +1,4 @@
-[Instrucciones de limpieza. Procedimiento de control y
+[***Instrucciones de limpieza. Procedimiento de control y
 registro.]{.span4}[ ]{.span4}
 
  
